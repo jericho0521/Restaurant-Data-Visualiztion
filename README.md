@@ -1,3 +1,6 @@
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
 **Objectives**
 
 **1.	Gain insights from sales data**
@@ -15,3 +18,33 @@ Learning about comparing branch performance is a vital objective for businesses 
 **4.	Convert data into visualization**
 
 Visualizations present complex sales data in a visual format that is easy to interpret and understand. Charts, graphs, and infographics provide a clear representation of trends, patterns, and relationships in the data, making it accessible to both technical and non-technical stakeholders. By presenting our research in visualization format, we can highlight areas of underperformance or areas where the business might need improvement. This information can help guide efforts to optimize operations and increase sales.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+* Qlik Sense (Cloud)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+1. Head to **Restaurant Data Visualization** file
+2. Install **resdv.qvf**
+3. Upload to your Qlik Cloud
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
